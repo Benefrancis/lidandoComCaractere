@@ -6,13 +6,13 @@
 public class Demonstrando {
     public static void main(String[] args) {
 
-        //Atribuindo um número inteiro em um caractere
+        //Atribuindo um número inteiro em um tipo caractere
         char caractere = 0;
 
-        //Realizando comparação numérica com um caractere
+        //Realizando comparação numérica com um tipo caractere
         while (caractere < 6556) {
             //Pegando o resto da divisão de um valor caractere (dividendo)
-            //Por um divisor (35)
+            //Por um divisor (99)
             if (caractere % 99 == 0 )
                 System.out.println(caractere + "\t ");
             else
