@@ -1,6 +1,12 @@
 /**
  * Demonstrando que caractere pode armazenar números decimais
  *
+ *
+ * Alguns exemplos legais:
+ * 8986 [⌚] 8987 [⌛] 9200 [⏰] 9748 [☔] 9749 [☕] 9855 [♿] 9917 [⚽] 9918 [⚾]
+ * 9973 [⛵] 11088 [⭐] 59688 [] 57350 [] 9981 [⛽] 9924 [⛄] 9875 [⚓]
+ *
+ *
  * @author <a href="https://github.com/Benefrancis">Benefrancis do Nascimento</a>
  */
 public class Demonstrando {
