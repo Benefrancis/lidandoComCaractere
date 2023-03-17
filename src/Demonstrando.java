@@ -6,7 +6,7 @@
 public class Demonstrando {
     public static void main(String[] args) {
 
-        //Atribuindo um número inteiro em um tipo caractere
+        //Atribuindo um número inteiro num tipo caractere
         char caractere = 0;
 
         //Realizando comparação numérica com um tipo caractere
